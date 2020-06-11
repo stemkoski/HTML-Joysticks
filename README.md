@@ -1,2 +1,2 @@
 # HTML-Joysticks
-Simple joystick-style controls with HTML, supporting desktop/touchscreen and multiple joysticks.
+Simple joystick-style controls with HTML/Javascript, supporting desktop/touchscreen and multiple joysticks.
